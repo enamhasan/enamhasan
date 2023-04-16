@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey! Nice to meet you here.
+
+I am a Full Stack Develope with more than 10 years of professional experience in Software and web application development, e-commerce solutions. Ability to understand project requirements easily, and define solutions from abstract concepts. Quick learner, adapt to new ideas quickly. 
+Strength includes: 
+
+#Python #Django #Django REST Framework, #React, #AWS 
 
 <!--
 **enamhasan/enamhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
