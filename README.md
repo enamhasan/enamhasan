@@ -3,11 +3,8 @@
 I am a Full Stack Develope with more than 10 years of professional experience in Software and web application development, e-commerce solutions. 
 
 
-#Python #Django #Flask# Django REST Framework #React #AWS 
+#Python #Django #Flask# Django REST Framework #React #AWS #Shopify #Shopify Plus
 
-
-Where to find me
-Linkedin Twitter Facebook
 
 <!--
 **enamhasan/enamhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
