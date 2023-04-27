@@ -25,11 +25,33 @@
 ![](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
 
 
-I am a Full Stack Developer with more than 10 years of professional experience in Software and web application development, e-commerce solutions. 
+I am a Full Stack Python Developer with more than 10 years of professional experience in Software and web application development, e-commerce solutions, teamwork, and team management. Higher education IT background. Ability to understand project requirements easily, and define solutions from abstract concepts. Quick learner, adapt to new ideas quickly. 
+
+Strength includes: 
+
+• Object Oriented Programming
+• Software and Web Application Development
+• Database Development
+• Problem-Solving
+• Self Motivation
+• Data Analysis
 
 
-#Python #Django #Flask# Django REST Framework #React #AWS #Shopify #Shopify Plus
+Languages:
+Python, C#, PHP, Java, Visual Basic
 
+Web:
+Django, Flask,  Django Rest Framework (DRF), REST API, React, Jquery, Shopify, Shopify Plus, HTML, CSS, Liquid
+
+
+Databases:
+PostgreSQL, SQL Server,  MySQL,  Oracle, MS Access, No SQL
+
+Cloud:
+AWS, Digital Ocean, Heroku, Microsoft Azure 
+
+Other Tools & Technologies:
+SCRUM, JIRA, Azure DevOps, GIT, GitHub, SVN, Docker, Pycharm, VS Code
 
 <!--
 **enamhasan/enamhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
