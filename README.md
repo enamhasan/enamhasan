@@ -1,6 +1,6 @@
 ### Hey! Nice to meet you here.
 
-![](https://raw.githubusercontent.com/ExoplanetPy/ExoplanetPy/master/images/logo_400.png "ExoplanetPy logo")
+![](https://raw.githubusercontent.com/ExoplanetPy/ExoplanetPy/master/images/logo_50.png "ExoplanetPy logo")
 
 I am a Full Stack Develope with more than 10 years of professional experience in Software and web application development, e-commerce solutions. 
 
