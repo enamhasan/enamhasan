@@ -41,7 +41,7 @@ Languages:
 Python, C#, PHP, Java, Visual Basic
 
 Web:
-Django, Flask,  Django Rest Framework (DRF), REST API, React, Jquery, Shopify, Shopify Plus, HTML, CSS, Liquid
+Django, Flask,  Django Rest Framework (DRF), REST API, React, Jquery, Shopify, Shopify Plus, HTML, CSS, Liquid, Bootstrap, Tailwind CSS.
 
 
 Databases:
