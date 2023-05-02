@@ -48,7 +48,7 @@ Databases:
 PostgreSQL, SQL Server,  MySQL,  Oracle, MS Access, No SQL
 
 Cloud:
-AWS, Digital Ocean, Heroku, Microsoft Azure 
+AWS, Heroku, Microsoft Azure, Digital Ocean 
 
 Other Tools & Technologies:
 SCRUM, JIRA, Azure DevOps, GIT, GitHub, SVN, Docker, Pycharm, VS Code
