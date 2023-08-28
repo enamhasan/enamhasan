@@ -3,6 +3,8 @@
 I am a Full Stack Python Developer with over 10 years of professional experience in Software and web application development, e-commerce solutions, teamwork, and team management. Higher education IT background. Ability to understand project requirements easily, and define solutions from abstract concepts. Quick learner, adapts to new ideas quickly. 
 
 
+
+
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
