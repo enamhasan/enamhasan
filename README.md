@@ -33,28 +33,31 @@ I am a Full Stack Python Developer with over 10 years of professional experience
 
 Strength includes: 
 
-• Object Oriented Programming
-• Software and Web Application Development
-• Database Development
-• Problem-Solving
-• Self Motivation
-• Data Analysis
+* Software and Web Application Development
+* Database Development
+* Detail Oriented and Problem-Solver
+* Self Motivation
+* Data Analysis & Visualization
+* Scrum Master Certified
 
 
-Languages:
-Python, C#, PHP, Java, Visual Basic
 
-Web:
+Languages: <br>
+Python, C#, PHP, Visual Basic
+
+Web: <br>
 Django, Flask,  Django Rest Framework (DRF), REST API, React, Jquery, Shopify, Shopify Plus, HTML, CSS, Liquid, Bootstrap, Tailwind CSS.
 
-
-Databases:
+Databases: <br>
 PostgreSQL, SQL Server,  MySQL,  Oracle, MS Access, No SQL
 
-Cloud:
+Cloud: <br>
 AWS, Heroku, Microsoft Azure, Digital Ocean 
 
-Other Tools & Technologies:
+Data Engineering / Analytics: <br>
+Pandas, NumPy, Plotly, Tableau, Spark, Kafka. 
+
+Other Tools & Technologies: <br>
 SCRUM, JIRA, Azure DevOps, GIT, GitHub, SVN, Docker, Pycharm, VS Code
 
 <!--
