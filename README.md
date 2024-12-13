@@ -14,6 +14,7 @@ I am a Full Stack Python Developer with over 10 years of professional experience
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -46,7 +47,7 @@ Languages: <br>
 Python, C#, PHP, Visual Basic
 
 Web: <br>
-Django, Flask,  Django Rest Framework (DRF), REST API, React, Jquery, Shopify, Shopify Plus, HTML, CSS, Liquid, Bootstrap, Tailwind CSS.
+Django, Flask,  Django Rest Framework (DRF), REST API, React, Next, Remix, Jquery, Shopify, Shopify Plus, HTML, CSS, Liquid, Bootstrap, Tailwind CSS.
 
 Databases: <br>
 PostgreSQL, SQL Server,  MySQL,  Oracle, MS Access, No SQL
