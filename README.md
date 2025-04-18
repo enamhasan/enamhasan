@@ -44,16 +44,16 @@ Strength includes:
 
 
 Languages: <br>
-Python, C#, PHP, Visual Basic
+Python, C#, Visual Basic
 
 Web: <br>
-Django, Flask,  Django Rest Framework (DRF), REST API, React, Next, Remix, Jquery, Shopify, Shopify Plus, HTML, CSS, Liquid, Bootstrap, Tailwind CSS.
+Django, Flask,  Django Rest Framework (DRF), REST API, React, Next, Remix, Alpine.js, Jquery,  Shopify, Shopify Plus, HTML, CSS, Liquid, Bootstrap, Tailwind CSS.
 
 Databases: <br>
 PostgreSQL, SQL Server,  MySQL,  Oracle, MS Access, No SQL
 
 Cloud: <br>
-AWS, Heroku, Microsoft Azure, Digital Ocean 
+AWS, Heroku, Vercel, fly.io, Microsoft Azure, Digital Ocean 
 
 Data Engineering / Analytics: <br>
 Pandas, NumPy, Plotly, Tableau, Spark, Kafka. 
